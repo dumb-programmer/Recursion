@@ -1,0 +1,26 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibs.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumb-programmer/Recursion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumb-programmer/Recursion/issues"
+  },
+  "homepage": "https://github.com/dumb-programmer/Recursion#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
